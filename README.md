@@ -1,7 +1,9 @@
 # Serial_Servo_Pico_HAT_Hardware
-<!--
-<img src= "" />
--->
+
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_1.png?v=1718781840" />
+
+The Pico Serial Servo HAT is a versatile and compact controller with dual power options, two serial servo connectors, and two programmable buttons. It features a 1.14” TFT display for status updates, a power LED indicator, and supports simultaneous multi-servo control, making it ideal for projects requiring precise coordination and multiple servos with minimal wiring like Robotic Arm Control, CNC machine and Automation.
+
 This Github provides hardware design files for Serial Servo Pico HAT.
 
 ### Repository Contents:
@@ -12,22 +14,22 @@ This Github provides hardware design files for Serial Servo Pico HAT.
 
 ## Related Products  
     
-  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield?_pos=4&_sid=8d954c383&_ss=r)
+  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield-1?_pos=4&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/servomotoron.jpg?v=1698413149&width=150)
+    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_3.png?v=1718793718&width=150)
 
-  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32?_pos=6&_sid=8d954c383&_ss=r)
+  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32-1?_pos=1&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/SerialServobasedonESP32.jpg?v=1698412841&width=150)
+    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/esp322.png?v=1718797495&width=150)
     
-  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-raspberry-pi?_pos=7&_sid=8d954c383&_ss=r)
+  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-raspberry-pi-hat?_pos=2&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoRaspberryPiHAT.jpg?v=1698412485&width=150)
+    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_2.png?v=1718788805&width=150)
 
-  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout?_pos=2&_sid=25db0351c&_ss=r)
+  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout-1?_pos=3&_sid=5d47c0d83&_ss=r)
 
-    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Breakout.jpg?v=1698413419&width=150)
-
+    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2.png?v=1718780131&width=150)
+	
 
 
 ## Product License
